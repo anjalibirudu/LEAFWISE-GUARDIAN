@@ -48,8 +48,8 @@ This project demonstrates **enterprise-level development skills** through:
 
 ```bash
 # Clone the repository
-git clone https://github.com/anjalibirudu/<YOUR_REPO_NAME>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/anjalibirudu/LEAFWISE-GUARDIAN
+cd LEAFWISE-GUARDIAN
 
 # Install & run
 npm install && npm run dev
